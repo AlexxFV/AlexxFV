@@ -1,10 +1,9 @@
 💫 About Me
 Hey, I'm Alex Fraile, a passionate backend developer with a strong focus on performance and scalability.
-I love working with Node.js, TypeScript, and modern backend technologies, and I'm always eager to explore new tools and frameworks.
-My goal is to build efficient, secure, and high-performance applications that solve real-world problems.
 
-🚀 Always learning, always improving. Let’s build something amazing together!
+🎓 Education: I am currently in my last year of Computer Science in the United Kingdom.
 
+🚀 My goal: To turn ideas into functional, scalable and visually appealing projects.
 
 ## 🚀 Tech Stack & Tools
 
