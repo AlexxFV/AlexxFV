@@ -2,7 +2,7 @@
 
 Hey, I'm Alex Fraile, a passionate backend developer with a strong focus on performance and scalability.
 
-🎓 Education: I am currently in my last year of Computer Science in the United Kingdom.
+🎓 Education: I am currently in my last year of Computer Science in the UK
 
 🚀 My goal: To turn ideas into functional, scalable and visually appealing projects.
 
